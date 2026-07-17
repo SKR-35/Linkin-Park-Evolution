@@ -1,0 +1,32 @@
+# Raw and intermediate data
+data/raw/
+data/interim/
+
+# Copyrighted lyrics
+**/lyrics/*.txt
+**/lyrics/*.json
+**/lyrics/*.csv
+**/lyrics/*.parquet
+
+# Models and caches
+outputs/models/
+.cache/
+__pycache__/
+*.pyc
+
+# Environments
+.env
+.venv/
+venv/
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
