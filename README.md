@@ -96,7 +96,7 @@ The dashboard includes multiple visual identities inspired by the band's album e
 
 ---
 
-## Snapshots
+## Dashboard Preview
 
 ![Album Evolution](docs/UI_1.png)
 ![Album Evolution Velocity](docs/UI_2.png)
