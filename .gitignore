@@ -1,6 +1,8 @@
 # Raw and intermediate data
 data/raw/
 data/interim/
+data/processed/
+data/processed/lyrics_clean.*
 
 # Copyrighted lyrics
 **/lyrics/*.txt
@@ -27,6 +29,7 @@ venv/
 .vscode/
 .idea/
 
-# Logs
-logs/
-*.log
+outputs/
+*.Rproj.user
+*.Rproj
+*.dcf
