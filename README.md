@@ -94,6 +94,21 @@ The dashboard includes multiple visual identities inspired by the band's album e
 
 ---
 
+---
+
+## Snapshots
+
+![Album Evolution](docs/UI_1.png)
+![Album Evolution Velocity](docs/UI_2.png)
+![Evolution: NRC Emotions](docs/UI_3.png)
+![Nearest Songs to Numb](docs/UI_5.png)
+![Clustering by Album](docs/UI_6.png)
+![Within-Album Song Dispersion	](docs/UI_7.png)
+![Linkin Park Similarity Minimum Spanning Tree](docs/UI_10.png)
+![Artist Fingerprint Radaar](docs/UI_12.png)
+
+---
+
 ## Data Sources
 
 ### MusicBrainz
