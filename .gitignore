@@ -33,3 +33,16 @@ outputs/
 *.Rproj.user
 *.Rproj
 *.dcf
+
+# Documentation figures
+docs/*.png
+
+# Keep README images
+!docs/UI_1.png
+!docs/UI_2.png
+!docs/UI_3.png
+!docs/UI_5.png
+!docs/UI_6.png
+!docs/UI_7.png
+!docs/UI_10.png
+!docs/UI_12.png
